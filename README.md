@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FGuedes0!
 - 👀 I’m interested in ... learning!
 - 🌱 I’m currently learning ... python, sql
-- 💞️ I’m looking to help where I can help and be helped aswel!
+- 💞️ I’m looking to... help where I can help and be helped aswel!
 - ⚡ Fun fact: ... A chicken once lived for 18 months without a head
 
 <!---
